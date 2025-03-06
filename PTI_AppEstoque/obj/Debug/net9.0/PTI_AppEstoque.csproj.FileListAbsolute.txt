@@ -3,3 +3,13 @@ c:\VSCodeProjects\PTI_AppEstoque\PTI_AppEstoque\obj\Debug\net9.0\PTI_AppEstoque.
 c:\VSCodeProjects\PTI_AppEstoque\PTI_AppEstoque\obj\Debug\net9.0\PTI_AppEstoque.AssemblyInfo.cs
 c:\VSCodeProjects\PTI_AppEstoque\PTI_AppEstoque\obj\Debug\net9.0\PTI_AppEstoque.csproj.CoreCompileInputs.cache
 c:\VSCodeProjects\PTI_AppEstoque\PTI_AppEstoque\obj\Debug\net9.0\PTI_AppEstoque.sourcelink.json
+C:\VSCodeProjects\PTI_AppEstoque\PTI_AppEstoque\bin\Debug\net9.0\PTI_AppEstoque.exe
+C:\VSCodeProjects\PTI_AppEstoque\PTI_AppEstoque\bin\Debug\net9.0\PTI_AppEstoque.deps.json
+C:\VSCodeProjects\PTI_AppEstoque\PTI_AppEstoque\bin\Debug\net9.0\PTI_AppEstoque.runtimeconfig.json
+C:\VSCodeProjects\PTI_AppEstoque\PTI_AppEstoque\bin\Debug\net9.0\PTI_AppEstoque.dll
+C:\VSCodeProjects\PTI_AppEstoque\PTI_AppEstoque\bin\Debug\net9.0\PTI_AppEstoque.pdb
+C:\VSCodeProjects\PTI_AppEstoque\PTI_AppEstoque\obj\Debug\net9.0\PTI_AppEstoque.dll
+C:\VSCodeProjects\PTI_AppEstoque\PTI_AppEstoque\obj\Debug\net9.0\refint\PTI_AppEstoque.dll
+C:\VSCodeProjects\PTI_AppEstoque\PTI_AppEstoque\obj\Debug\net9.0\PTI_AppEstoque.pdb
+C:\VSCodeProjects\PTI_AppEstoque\PTI_AppEstoque\obj\Debug\net9.0\PTI_AppEstoque.genruntimeconfig.cache
+C:\VSCodeProjects\PTI_AppEstoque\PTI_AppEstoque\obj\Debug\net9.0\ref\PTI_AppEstoque.dll

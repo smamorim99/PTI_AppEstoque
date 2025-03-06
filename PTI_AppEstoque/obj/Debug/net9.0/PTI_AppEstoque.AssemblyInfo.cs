@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PTI_AppEstoque")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb714fdd616f434e7b3608b6ee0a48ef64e82a93")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f3fa521b90abb2e5911f6c60d923d5ea38cb7f9")]
 [assembly: System.Reflection.AssemblyProductAttribute("PTI_AppEstoque")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PTI_AppEstoque")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
