@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\VSCodeProjects\\PTI_AppEstoque\\PTI_AppEstoque\\PTI_AppEstoque.csproj": {}
+    "c:\\VSCodeProjects\\PTI_AppEstoque\\PTI_AppEstoque\\PTI_AppEstoque.csproj": {}
   },
   "projects": {
-    "C:\\VSCodeProjects\\PTI_AppEstoque\\PTI_AppEstoque\\PTI_AppEstoque.csproj": {
+    "c:\\VSCodeProjects\\PTI_AppEstoque\\PTI_AppEstoque\\PTI_AppEstoque.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\VSCodeProjects\\PTI_AppEstoque\\PTI_AppEstoque\\PTI_AppEstoque.csproj",
+        "projectUniqueName": "c:\\VSCodeProjects\\PTI_AppEstoque\\PTI_AppEstoque\\PTI_AppEstoque.csproj",
         "projectName": "PTI_AppEstoque",
-        "projectPath": "C:\\VSCodeProjects\\PTI_AppEstoque\\PTI_AppEstoque\\PTI_AppEstoque.csproj",
+        "projectPath": "c:\\VSCodeProjects\\PTI_AppEstoque\\PTI_AppEstoque\\PTI_AppEstoque.csproj",
         "packagesPath": "C:\\Users\\sofia\\.nuget\\packages\\",
-        "outputPath": "C:\\VSCodeProjects\\PTI_AppEstoque\\PTI_AppEstoque\\obj\\",
+        "outputPath": "c:\\VSCodeProjects\\PTI_AppEstoque\\PTI_AppEstoque\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sofia\\AppData\\Roaming\\NuGet\\NuGet.Config"

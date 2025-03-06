@@ -1,0 +1,5 @@
+c:\VSCodeProjects\PTI_AppEstoque\PTI_AppEstoque\obj\Debug\net9.0\PTI_AppEstoque.GeneratedMSBuildEditorConfig.editorconfig
+c:\VSCodeProjects\PTI_AppEstoque\PTI_AppEstoque\obj\Debug\net9.0\PTI_AppEstoque.AssemblyInfoInputs.cache
+c:\VSCodeProjects\PTI_AppEstoque\PTI_AppEstoque\obj\Debug\net9.0\PTI_AppEstoque.AssemblyInfo.cs
+c:\VSCodeProjects\PTI_AppEstoque\PTI_AppEstoque\obj\Debug\net9.0\PTI_AppEstoque.csproj.CoreCompileInputs.cache
+c:\VSCodeProjects\PTI_AppEstoque\PTI_AppEstoque\obj\Debug\net9.0\PTI_AppEstoque.sourcelink.json
